@@ -1,0 +1,19 @@
+.mahashivratriInfo {
+    color: darkblue;
+    background-color: lightblue;
+    border-style: double;
+    border-color: black;
+    border-top: 4px;
+    font-size: 50px;
+
+}
+
+#info {
+    color: darkolivegreen;
+    background-color: lightyellow;
+    border-style: dashed;
+    border-color: palevioletred;
+    border-top: 4px;
+    font-size: larger;
+
+}
